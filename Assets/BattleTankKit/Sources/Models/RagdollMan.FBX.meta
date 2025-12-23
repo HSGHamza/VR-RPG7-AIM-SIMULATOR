@@ -1,0 +1,150 @@
+fileFormatVersion: 2
+guid: bc4c6cdda04996840bbc674cfb7f8b8e
+timeCreated: 1460218460
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bip01 Footsteps
+    100002: Bip01 HeadNub
+    100004: Bip01 L Clavicle
+    100006: Bip01 L Finger0
+    100008: Bip01 L Finger0Nub
+    100010: Bip01 L Finger1Nub
+    100012: Bip01 L Thigh
+    100014: Bip01 L Toe0Nub
+    100016: Bip01 L UpperArm
+    100018: Bip01 Pelvis
+    100020: Bip01 R Clavicle
+    100022: Bip01 R Finger0
+    100024: Bip01 R Finger0Nub
+    100026: Bip01 R Finger1Nub
+    100028: Bip01 R Thigh
+    100030: Bip01 R Toe0Nub
+    100032: Bip01 R UpperArm
+    100034: Bip01 Spine
+    100036: Bip01 Spine1
+    100038: Camera01
+    100040: Camera01.Target
+    100042: casual02_m_lowpoly
+    100044: Center
+    100046: Head
+    100048: L Foot
+    100050: L Lover Arm
+    100052: L Lower Leg
+    100054: L Uper Arm
+    100056: L Uper Leg
+    100058: LHand
+    100060: R Foot
+    100062: R Hand
+    100064: R Lower Arm
+    100066: R Lower Leg
+    100068: R Uper Arm
+    100070: R Uper Leg
+    100072: //RootNode
+    100074: Root
+    400000: Bip01 Footsteps
+    400002: Bip01 HeadNub
+    400004: Bip01 L Clavicle
+    400006: Bip01 L Finger0
+    400008: Bip01 L Finger0Nub
+    400010: Bip01 L Finger1Nub
+    400012: Bip01 L Thigh
+    400014: Bip01 L Toe0Nub
+    400016: Bip01 L UpperArm
+    400018: Bip01 Pelvis
+    400020: Bip01 R Clavicle
+    400022: Bip01 R Finger0
+    400024: Bip01 R Finger0Nub
+    400026: Bip01 R Finger1Nub
+    400028: Bip01 R Thigh
+    400030: Bip01 R Toe0Nub
+    400032: Bip01 R UpperArm
+    400034: Bip01 Spine
+    400036: Bip01 Spine1
+    400038: Camera01
+    400040: Camera01.Target
+    400042: casual02_m_lowpoly
+    400044: Center
+    400046: Head
+    400048: L Foot
+    400050: L Lover Arm
+    400052: L Lower Leg
+    400054: L Uper Arm
+    400056: L Uper Leg
+    400058: LHand
+    400060: R Foot
+    400062: R Hand
+    400064: R Lower Arm
+    400066: R Lower Leg
+    400068: R Uper Arm
+    400070: R Uper Leg
+    400072: //RootNode
+    400074: Root
+    4300000: casual02_m_lowpoly
+    9500000: //RootNode
+    13700000: casual02_m_lowpoly
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

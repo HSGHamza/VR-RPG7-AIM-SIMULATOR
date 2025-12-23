@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "492887928420",
+    "project_id": "rpgtraining-5cff0",
+    "storage_bucket": "rpgtraining-5cff0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492887928420:android:5a40b586f5066a0927b971",
+        "android_client_info": {
+          "package_name": "com.HSG.RPGVR"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAb22-_Hlw3OAHiC1JEKCTaPV7VS9e-bvc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
